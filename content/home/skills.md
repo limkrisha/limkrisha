@@ -29,13 +29,13 @@ feature:
   icon_pack: fas
   name: SQL, MongoDB
 - description: 100%
-  icon: file-spreadsheet
+  icon: table
   icon_pack: fa
   name: Excel
 - description: 100%
   icon: chart-line
   icon_pack: fa
-  name: Statistics
+  name: Econometrics
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
