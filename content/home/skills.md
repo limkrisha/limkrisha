@@ -30,11 +30,11 @@ feature:
   name: SQL, MongoDB
 - description: 100%
   icon: file-spreadsheet
-  icon_pack: fas
+  icon_pack: fab
   name: Excel
 - description: 100%
   icon: chart-line
-  icon_pack: fas
+  icon_pack: fab
   name: Statistics
 
 # Uncomment to use emoji icons.
