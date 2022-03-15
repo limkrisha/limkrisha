@@ -14,7 +14,7 @@ organizations:
   url: https://mfre.landfood.ubc.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Equip students with the data analytics focused on the FRE sector 
+bio: Equipping students with the data analytics tools focused on the FRE sector 
 
 # Interests to show in About widget
 interests:
