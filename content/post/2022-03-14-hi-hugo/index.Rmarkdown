@@ -17,35 +17,48 @@ image:
 projects: []
 ---
 
-R and RStudio are part of the MFRE software toolkit. Please download these two software before the start of the Summer Program. Both R and RStudio are free. 
-Hello! First post about MFRE's Data Analytics Plan. 
+R and RStudio are part of the MFRE software toolkit. Please download these two software before the start of the Summer Program. Both R and RStudio are free. Hello! First post about MFRE's Data Analytics Plan.
 
 Prior R experience is great but not required. We suggest you get familiarized with R before the bootcamp. Here are useful tutorials:
 
-  * [STAT545](https://stat545.com/)
-  * [R for Data Science](https://r4ds.had.co.nz/introduction.html)
-  
+-   [STAT545](https://stat545.com/)
+-   [R for Data Science](https://r4ds.had.co.nz/introduction.html)
+
 # Installation Instructions for Windows
 
-  1. Download R from [Comprehensive R Archive Network (CRAN)](https://mirror.rcg.sfu.ca/mirror/CRAN/)
-  
-    * Select Download R for Windows
-    * Click install R for the first time
-    
-![r-windows](r_setup.jpg)
-  
-```{r}
-summary(Orange)
-```
+1.  Download R from [Comprehensive R Archive Network (CRAN)](https://mirror.rcg.sfu.ca/mirror/CRAN/)
 
-```{r echo=FALSE}
-library(ggplot2)
-oplot <- ggplot(Orange, aes(x = age, 
-                   y = circumference, 
-                   colour = Tree)) +
-  geom_point() +
-  geom_line() +
-  guides(colour = FALSE) +
-  theme_bw()
-oplot
-```
+-   Select Download R for Windows
+-   Click install R for the first time
+
+![r-windows](r_setup.png)
+
+-   Click Download R 4.1.0 for Windows (or the latest R version available)
+
+![r-windows2](r_setup2.png) 
+
+- Run the installer R-4.1.0-win.exe - Follow the installation prompts. No need to change any default settings. - The installation will take a few minutes. 
+
+- After you click "Finish," you will have have successfully installed R on your device.
+
+- When you open R x64 4.1.0, you will see a similar interface as the image below. 
+
+![r-app](r_app.png)
+
+2. Download RStudio Desktop from their [website](https://www.rstudio.com/products/rstudio/download/). 
+
+- Click the blue download button under the 'Free' version. 
+
+![r-studio](rstudio_download.png)
+
+- Click "Download RStudio for Windows" (you may see a newer version)
+
+![r-studiodl](rstudio_downloadlaunch.png)
+
+- Run the RStudio-1.4.1717.exe installer. Allow it to make changes to your drive, then follow the installation prompts. No need to change any default settings. 
+
+- After you click "Finish," you will have have successfully installed R on your device.
+
+- When you open RStudio, you will see a similar interface as the image below. 
+
+![rstudio-interface](rstudio_interface.png)
