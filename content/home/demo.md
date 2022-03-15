@@ -1,7 +1,7 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
-widget: blank
+widget: hero
 
 # Activate this widget? true/false
 active: false
@@ -10,7 +10,7 @@ active: false
 headless: false
 
 # Order that this section appears on the page.
-weight: 15
+weight: 0
 
 title: Hugo Academic Theme Demo
 subtitle:
