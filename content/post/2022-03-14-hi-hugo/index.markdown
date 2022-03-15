@@ -24,14 +24,15 @@ Prior R experience is great but not required. We suggest you get familiarized wi
 -   [STAT545](https://stat545.com/)
 -   [R for Data Science](https://r4ds.had.co.nz/introduction.html)
 
-# Installation Instructions for Windows
+# Windows Users
 
 1.  Download R from [Comprehensive R Archive Network (CRAN)](https://mirror.rcg.sfu.ca/mirror/CRAN/)
 
 -   Select Download R for Windows
 -   Click install R for the first time
 
-![r-windows](r_setup.png)
+<img src="r_setup.png" width="200px" />
+
 
 -   Click Download R 4.1.0 for Windows (or the latest R version available)
 
@@ -67,7 +68,7 @@ Prior R experience is great but not required. We suggest you get familiarized wi
 
 ![rstudio-interface](rstudio_interface.png)
 
-# Installation Instructions for Mac
+# Mac Users
 
 1.  Download R from [Comprehensive R Archive Network (CRAN)](https://mirror.rcg.sfu.ca/mirror/CRAN/)
 

@@ -37,7 +37,7 @@ feature:
   icon_pack: fa
   name: Econometrics
 - description: 100%
-  icon: chart-candlestick
+  icon: chart-area
   icon_pack: fa
   name: Visualization
 
