@@ -1,9 +1,9 @@
 ---
-title: R Installation
+title: Installing R and RStudio
 author: ''
 date: '2022-03-14'
 slug: []
-categories: [R, startup]
+categories: [R, startup, installation]
 tags: [R]
 subtitle: ''
 summary: ''
@@ -35,30 +35,74 @@ Prior R experience is great but not required. We suggest you get familiarized wi
 
 -   Click Download R 4.1.0 for Windows (or the latest R version available)
 
-![r-windows2](r_setup2.png) 
+![r-windows2](r_setup2.png)
 
-- Run the installer R-4.1.0-win.exe - Follow the installation prompts. No need to change any default settings. - The installation will take a few minutes. 
+-   Run the installer R-4.1.0-win.exe
 
-- After you click "Finish," you will have have successfully installed R on your device.
+-   Follow the installation prompts. No need to change any default settings.
 
-- When you open R x64 4.1.0, you will see a similar interface as the image below. 
+-   The installation will take a few minutes.
+
+-   After you click "Finish," you will have have successfully installed R on your device.
+
+-   When you open R x64 4.1.0, you will see a similar interface as the image below.
 
 ![r-app](r_app.png)
 
-2. Download RStudio Desktop from their [website](https://www.rstudio.com/products/rstudio/download/). 
+2.  Download RStudio Desktop from their [website](https://www.rstudio.com/products/rstudio/download/).
 
-- Click the blue download button under the 'Free' version. 
+-   Click the blue download button under the 'Free' version.
 
 ![r-studio](rstudio_download.png)
 
-- Click "Download RStudio for Windows" (you may see a newer version)
+-   Click "Download RStudio for Windows" (you may see a newer version)
 
 ![r-studiodl](rstudio_downloadlaunch.png)
 
-- Run the RStudio-1.4.1717.exe installer. Allow it to make changes to your drive, then follow the installation prompts. No need to change any default settings. 
+-   Run the RStudio-1.4.1717.exe installer. Allow it to make changes to your drive, then follow the installation prompts. No need to change any default settings.
 
-- After you click "Finish," you will have have successfully installed R on your device.
+-   After you click "Finish," you will have have successfully installed R on your device.
 
-- When you open RStudio, you will see a similar interface as the image below. 
+-   When you open RStudio, you will see a similar interface as the image below.
 
 ![rstudio-interface](rstudio_interface.png)
+
+# Installation Instructions for Mac
+
+1.  Download R from [Comprehensive R Archive Network (CRAN)](https://mirror.rcg.sfu.ca/mirror/CRAN/)
+
+-   Select Download R for macOS
+-   Click install R for the first time
+
+![r-mac](r_mac.png)
+
+-   Download the relevant installation file depending on your macOS
+-   Follow the installation prompts. No need to change any default settings.
+-   The installation will take a few minutes.
+-   After you click "Close," you will have successfully installed R on your device. You will now see the R logo in your Applications folder.
+
+![r-mac-appfolder](r_mac_appfolder.png)
+
+
+-   When you open R, you will see a similar interface.
+
+![r-mac-app](r_app_mac.png)
+
+2. Now that you have R installed, you can now download and install RStudio from their [website](https://www.rstudio.com/products/rstudio/download/).
+
+- Click the blue download button under the 'Free' version.
+
+![r-studio](rstudio_download.png)
+
+- Click "Download RStudio for Mac" (you may see a newer version)
+
+![rstudio-macdl](rstudio_macdownload.png)
+
+- Run the RStudio-1.4.1717.dmg installation file. 
+
+- Drag RStudio to your Applications folder
+
+![rstudio-to-appfolder](rstudio_to_appfolder.png)
+- You will now see RStudio in your Applications folder. When you open RStudio, you will see a similar interface.  
+![rstudio-mac-interface](rmac_interface.png)
+
