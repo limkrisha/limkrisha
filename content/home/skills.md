@@ -23,18 +23,18 @@ feature:
 - description: 100%
   icon: python
   icon_pack: fab
-  name: R
+  name: Python
 - description: 100%
   icon: database
-  icon_pack: fab
+  icon_pack: fas
   name: SQL, MongoDB
 - description: 100%
   icon: file-spreadsheet
-  icon_pack: fab
+  icon_pack: fa
   name: Excel
 - description: 100%
   icon: chart-line
-  icon_pack: fab
+  icon_pack: fa
   name: Statistics
 
 # Uncomment to use emoji icons.
