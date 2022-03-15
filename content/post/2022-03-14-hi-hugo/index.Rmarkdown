@@ -1,10 +1,10 @@
 ---
-title: Intro to R
+title: R Installation
 author: ''
 date: '2022-03-14'
 slug: []
-categories: []
-tags: []
+categories: [R, startup]
+tags: [R]
 subtitle: ''
 summary: ''
 authors: []
@@ -17,9 +17,23 @@ image:
 projects: []
 ---
 
+R and RStudio are part of the MFRE software toolkit. Please download these two software before the start of the Summer Program. Both R and RStudio are free. 
 Hello! First post about MFRE's Data Analytics Plan. 
-![my-first-image](mfrelogo.png)
 
+Prior R experience is great but not required. We suggest you get familiarized with R before the bootcamp. Here are useful tutorials:
+
+  * [STAT545](https://stat545.com/)
+  * [R for Data Science](https://r4ds.had.co.nz/introduction.html)
+  
+# Installation Instructions for Windows
+
+  1. Download R from [Comprehensive R Archive Network (CRAN)](https://mirror.rcg.sfu.ca/mirror/CRAN/)
+  
+    * Select Download R for Windows
+    * Click install R for the first time
+    
+![r-windows](r_setup.jpg)
+  
 ```{r}
 summary(Orange)
 ```

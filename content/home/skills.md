@@ -36,6 +36,10 @@ feature:
   icon: chart-line
   icon_pack: fa
   name: Econometrics
+- description: 100%
+  icon: chart-candlestick
+  icon_pack: fa
+  name: Visualization
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
