@@ -1,6 +1,6 @@
 ---
 # Display name
-title: MFRE Data Analytics Plan
+title: MFRE Data Analytics
 
 # Is this the primary user of the site?
 superuser: true
