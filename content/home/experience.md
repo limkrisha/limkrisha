@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan
+date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -22,12 +22,13 @@ date_format: Jan
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Term 2 courses
-    company: FRE515, FRE521D, FRE530
+  - title: Term 2 coursework
+    company: GenCoin
     company_url: ''
     company_logo: org-gc
-    date_start: '01'
-    date_end: '04'
+    location: California
+    date_start: '2022-01-01'
+    date_end: '2022-04-30'
     description: |2-
         Responsibilities include:
         
@@ -36,18 +37,14 @@ experience:
         * R to analyze time series commodity data
         * R to analyze survey datasets
         
-  - title: Term 1 courses
-    company: FRE501, FRE502, FRE515, FRE528
+  - title: Term 1 coursework
+    company: University X
+    company_url: ''
     company_logo: org-x
-    date_start: 'Sep'
-    date_end: 'Dec'
-    description: |2-
-        Responsibilities include:
-        
-        * R to connect to the UN Comtrade’s API to access data, plotting data and analyzing data to demonstrate law of one price
-        * R to estimate a gravity model for bilateral trade in Transport Services (TSP) 
-        * R to analyze housing prices in Vancouver
-        * PowerBI to create financial statements and dashboards
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
