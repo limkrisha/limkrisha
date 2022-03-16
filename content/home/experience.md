@@ -24,19 +24,18 @@ date_format: Jan
 
 experience:
   - title: Term 2 coursework
-    company: FRE521D, FRE530, FRE518
+    company: MFRE Electives
     company_url: ''
     company_logo: org-gc
-    location: California
+    location: 
     date_start: '2022-01-01'
     date_end: '2022-04-30'
     description: |2-
         Responsibilities include:
         
-        * Python to analyze emissions data
-        * SQL to access Google Big Query
-        * R to analyze time series commodity data
-        * R to analyze survey datasets
+        * FRE515: Use R to analyze survey data
+        * FRE521D: Use Python to analyze emissions data, access database and make queries with SQL 
+        * FRE530D: Use R and Stata to analyze different time series data
         
   - title: Term 1 coursework
     company: University X
