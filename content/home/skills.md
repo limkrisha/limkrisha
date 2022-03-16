@@ -27,7 +27,7 @@ feature:
 - description:
   icon: database
   icon_pack: fas
-  name: SQL, MongoDB
+  name: SQL | MongoDB
 - description: Pivot Tables, PowerBI
   icon: table
   icon_pack: fa
