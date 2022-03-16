@@ -18,7 +18,7 @@ bio: Equipping economists with the data analytics tools focused on the FRE secto
 
 # Interests to show in About widget
 interests:
-- Statistical Programming and Analysis
+- Statistical Programming
 - Data Analytics
 - Visualization
 - Database Queries

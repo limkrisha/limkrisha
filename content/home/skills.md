@@ -16,27 +16,27 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 100%
+- description: dplyr, ggplot2, forecast, vars
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: NumPy, pandas, matplotlib
   icon: python
   icon_pack: fab
   name: Python
-- description: 100%
+- description:
   icon: database
   icon_pack: fas
   name: SQL, MongoDB
-- description: 100%
+- description: Pivot Tables, PowerBI
   icon: table
   icon_pack: fa
   name: Excel
-- description: 100%
-  icon: chart-line
+- description: 
+  icon: code
   icon_pack: fa
-  name: Econometrics
-- description: 100%
+  name: Stata
+- description: Tableau, R, Python
   icon: chart-area
   icon_pack: fa
   name: Visualization
