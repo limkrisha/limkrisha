@@ -17,7 +17,7 @@ organizations:
 bio: Equipping economists with the data analytics tools focused on the FRE sector 
 
 # Interests to show in About widget
-Competencies:
+competencies:
 - Statistical Analysis and Programming
 - Data Analytics
 - Visualization
@@ -27,7 +27,7 @@ Competencies:
 - Forecasting
 
 # Education to show in About widget
-Overview:
+overview:
   courses:
   - course: Term 1 (R, Stata, Tableau, Excel)
     institution: FRE501, FRE502, FRE528, FRE515
