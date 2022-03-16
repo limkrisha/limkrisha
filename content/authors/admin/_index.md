@@ -6,7 +6,7 @@ title: MFRE Data Analytics
 superuser: true
 
 # Role/position/tagline
-role: Data / Economics / Business / Policy 
+role: Data | Economics | Business | Policy 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,16 +14,20 @@ organizations:
   url: https://mfre.landfood.ubc.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Equipping students with the data analytics tools focused on the FRE sector 
+bio: Equipping economists with the data analytics tools focused on the FRE sector 
 
 # Interests to show in About widget
-interests:
+Competencies:
+- Statistical Analysis and Programming
 - Data Analytics
 - Visualization
-- Communication
+- Database Design
+- Dashboard Creation
+- Presentation Skills
+- Forecasting
 
 # Education to show in About widget
-education:
+Overview:
   courses:
   - course: Term 1 (R, Stata, Tableau, Excel)
     institution: FRE501, FRE502, FRE528, FRE515
