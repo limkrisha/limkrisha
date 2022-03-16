@@ -15,6 +15,9 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+output:
+  blogdown::html_page:
+    toc: true
 ---
 
 R and RStudio are part of the MFRE software toolkit. Please download these two software before the start of the Summer Program. Both R and RStudio are free. Hello! First post about MFRE's Data Analytics Plan.

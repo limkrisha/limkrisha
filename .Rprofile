@@ -19,5 +19,7 @@ options(
   blogdown.method = 'html'
 )
 
+options(blogdown.method = "markdown")
+
 # fix Hugo version
 options(blogdown.hugo.version = "0.93.3")
