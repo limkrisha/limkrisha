@@ -17,13 +17,17 @@ organizations:
 bio: Equipping economists with the data analytics tools focused on the FRE sector 
 
 # Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+competencies:
+- Statistical Programming and Analysis
+- Data Analytics
+- Visualization
+- Database Queries
+- Dashboard Design
+- Data Storytelling
+- Forecasting
 
 # Education to show in About widget
-education:
+overview:
   courses:
   - course: Term 1 (R, Stata, Tableau, Excel)
     institution: FRE501, FRE502, FRE528, FRE515
