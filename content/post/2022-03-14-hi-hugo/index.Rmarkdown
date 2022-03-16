@@ -31,7 +31,7 @@ Prior R experience is great but not required. We suggest you get familiarized wi
 -   Select Download R for Windows
 -   Click install R for the first time
 
-```{r, out.width="50%", echo = F}
+```{r, out.width="100%", echo = F}
 knitr::include_graphics("r_setup.png")
 ```
 
